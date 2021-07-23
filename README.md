@@ -1,6 +1,6 @@
 # JS Linked List
 
-![build passing](https://travis-ci.com/JacobKnaack/linked-list.svg?branch=master)
+![build passing](https://travis-ci.com/JacobKnaack/js_linked-list.svg?branch=master)
 
 Node library for creating and manipulating linked list data structures.
 
