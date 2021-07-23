@@ -19,7 +19,9 @@ Import package
 ```js
 const LinkedList = require('@nohat/js-linked-list');
 ```
+
 or common js
+
 ```js
 import LinkedList from '@nohat/js-linked-list';
 ```
@@ -27,10 +29,9 @@ import LinkedList from '@nohat/js-linked-list';
 Use class methods to manipulate lists
 
 ```js
-const List = new LinkedList();
+const list = new LinkedList();
 
-List.insert('My First Node');
+list.insert('My First Node');
 
-const index0 = List.get({ index: 0 });
+const index0 = list.get({ index: 0 });
 ```
-
