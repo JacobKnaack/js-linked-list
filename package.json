@@ -1,6 +1,6 @@
 {
   "name": "@nohat/js-linked-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Creates a linked list module for use in javascript node environments",
   "keywords": [
     "linked",

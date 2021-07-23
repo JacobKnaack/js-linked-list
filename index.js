@@ -4,6 +4,6 @@
  * Entry file for linked List class
  */
 
-const { LinkedList } = require('./src/class');
+const { LinkedList } = require('./src/lib');
 
 module.exports = LinkedList;
